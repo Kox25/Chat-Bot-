@@ -1,0 +1,3 @@
+After installation the library 
+You have to import your own data 
+that you want chatting with 
